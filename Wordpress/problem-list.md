@@ -1,7 +1,7 @@
 WP Troubleshooter List
 ======================
 
-### Remove Unwanted <p> Tags
+### Remove Unwanted p Tags
 Quick steps:
 * Go to wp-includes folder
 * Seek and open default-filters.php
